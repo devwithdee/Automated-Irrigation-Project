@@ -31,19 +31,20 @@ This project won 1st Place at the Weill Cornell High School Research Competition
 - Breadboard and jumper wires
 
 ## Pin Setup
-- Component : Arduino Pin 
-- Soil Moisture Sensor : 12 |
-- Pump Control : 11 |
-- Keypad Rows : 9, 8, 7, 6 |
-- Keypad Columns : 5, 4, 3, 2 |
-- LCD : I2C address 0x27 |
+Component : Arduino Pin
+
+- Soil Moisture Sensor : 12 
+- Pump Control : 11 
+- Keypad Rows : 9, 8, 7, 6 
+- Keypad Columns : 5, 4, 3, 2 
+- LCD : I2C address 0x27 
 
 ## Keypad Controls
 Key: Function 
 
 - 1-9 : Set watering duration in 5-second increments 
 - 0 : Manual watering 
-- * : Reset total water usage 
+- '*' : Reset total water usage 
 
 ## How It Works
 
